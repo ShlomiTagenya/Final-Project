@@ -1,4 +1,4 @@
-# FinalProject
+# Automation-Project
 
 I Carried a project that combines one platform for a wide range of automated tests. 
 The IntelliJ software with which I prepared the project in an automation infrastructure that
