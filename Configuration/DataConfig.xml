@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+
+     <!-- Authorization -->
+    <UserName>admin</UserName>
+    <Password>admin</Password>
+
+    <!--Web-->
+
+    <BrowserName>chrome</BrowserName>
+    <url>http://localhost:3000/</url>
+    <ImageRepo>C:\\Users\\shlom\\Desktop\\COURSE FULLSTACK AUTOMATION TEST\\TestAutomation\\FinalProject\\ImagesRepository\\</ImageRepo>
+
+
+
+    <!--Data Driven Testing-->
+    <DDTFile>./DDTFiles/users.csv</DDTFile>
+
+    <!--Mobile-->
+    <UDID>5200fe1ceefca4c9</UDID>
+    <AppPackage>com.shivgadhia.android.ukMortgageCalc</AppPackage>
+    <AppActivity>.MainActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+
+    <!-- API -->
+    <urlAPI>http://localhost:3000/</urlAPI>
+
+    <!-- ELECTRON -->
+    <ElectronDriverPath>C:/Users/shlom/Desktop/COURSE FULLSTACK AUTOMATION TEST/TestAutomation/FinalProject/Drivers/electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Users/shlom/AppData/Local/Programs/todolist/Todolist.exe</ElectronAppPath>
+
+    <!-- Desktop -->
+    <CalculatorApp>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</CalculatorApp>
+    <AppiumServerDesktop>http://127.0.0.1:4723</AppiumServerDesktop>
+
+    <!-- Data Base -->
+    <DBURL>jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11522737</DBURL>
+    <DBUserName>sql11522737</DBUserName>
+    <DBPassword>a1YcFdvATQ</DBPassword>
+
+
+
+</Enviroment>
