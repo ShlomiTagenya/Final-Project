@@ -16,31 +16,31 @@ The project is an example of infrastructure for automation testing of different 
 * Desktop application
 
 ###  Infrastructure project includes using of:
-•Page Object Design Pattern
-•Project Layers(Extensions/Work Flows/Test Cases...)
-•Support of Different Clients/Browsers
-•Failure Mechanism
-•Common Functionality
-•External Files Support
-•Reporting System (including screenshots)
-•Visual Testing
-•DB support
-•CI support
+* Page Object Design Pattern
+•* Project Layers(Extensions/Work Flows/Test Cases...)
+* Support of Different Clients/Browsers
+* Failure Mechanism
+* Common Functionality
+* External Files Support
+* Reporting System (including screenshots)
+* Visual Testing
+* DB support
+*CI support
 
 ###  List of applications were used in this project:
-•Grafana webpage - Web based application
-•Mortgage calculator - Mobile application
-•Grafana API - Web API
-•Electron application
-•Windows calculator - Desktop application
+* Grafana webpage - Web based application
+* Mortgage calculator - Mobile application
+* Grafana API - Web API
+* Electron application
+* Windows calculator - Desktop application
 
 ###  Tools & Frameworks used in the project:
-•TestNG - Testing Framework
-•Listeners - interface used to generate logs and customize the TestNG reports
-•MySQL Free Online DB - used for login to Grafana web page
-•Jenkins- for tests execution
-•REST Assured - for API testing
-•Allure Reports - as the main reporting system
+* TestNG - Testing Framework
+* Listeners - interface used to generate logs and customize the TestNG reports
+* MySQL Free Online DB - used for login to Grafana web page
+* Jenkins- for tests execution
+* REST Assured - for API testing
+* Allure Reports - as the main reporting system
 
 ###  Tests Execution:
 Each of the applications has a few tests for demonstration purpose. These tests can be developed in a very simple way, due to a lot of work with the infrastructure. [Sanity Tests]
