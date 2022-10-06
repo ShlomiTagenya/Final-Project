@@ -4,8 +4,7 @@
 ## This project created to demonstrate my knowledge and skills in Automation Testing.
 
 <a href="https://www.youtube.com/watch?v=8d_0tl1fBVY
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
-alt="Short Video Demonstration" width="240" height="180" border="10" /></a>
+" target="_blank"> width="240" height="180" border="10" />Short Video Demonstration</a>
 
 ### About
 The project demonstrates a smart automation infrastructure. It is built in hierarchy order of modules. The modules contain number of classes with methods. There are main/common/helpers/actions/page object modules. In this way, the tests can be created in very simple way with a minimum lines of code. Also the infrastructure allows to work with different kinds of applications. Big advantage of the infrastructure is that it can be easy maintained!
