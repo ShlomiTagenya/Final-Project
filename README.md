@@ -38,7 +38,7 @@ The project is an example of infrastructure for automation testing of different 
 * TestNG - Testing Framework
 * Listeners - interface used to generate logs and customize the TestNG reports
 * MySQL Free Online DB - used for login to Grafana web page
-* [Jenkins](https://www.jenkins.io/) for tests execution
+* [Jenkins](https://www.jenkins.io/) - for tests execution
 * REST Assured - for API testing
 * [Allure](https://qameta.io/allure-report/) Reports - as the main reporting system
 
