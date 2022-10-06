@@ -6,8 +6,7 @@
 <a href="https://www.youtube.com/watch?v=8d_0tl1fBVY
 " target="_blank">Short Video Demonstration</a>     
 
-![alt text](![image](https://user-images.githubusercontent.com/114986537/194357526-8756c0ab-6d8d-49a9-9312-fa235541025b.png)
- "Logo Title Text 1")
+![alt text](https://i0.wp.com/q-automations.com/wp-content/uploads/2019/05/jenkinsseleniummaventest.png?resize=890%2C337&ssl=1 "Logo Title Text 1")
 
 ### About
  
