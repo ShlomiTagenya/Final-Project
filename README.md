@@ -9,11 +9,11 @@ The project demonstrates a smart automation infrastructure. It is built in hiera
 ###  Project Overview
 The project is an example of infrastructure for automation testing of different kinds of applications:
 
-•Web based application
-•Mobile application
-•Web API
-•Electron application
-•Desktop application
+* •Web based application
+* •Mobile application
+* •Web API
+* •Electron application
+* •Desktop application
 
 ###  Infrastructure project includes using of:
 •Page Object Design Pattern
