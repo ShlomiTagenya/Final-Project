@@ -40,7 +40,7 @@ The project is an example of infrastructure for automation testing of different 
 * MySQL Free Online DB - used for login to Grafana web page
 * Jenkins- for tests execution
 * REST Assured - for API testing
-* Allure Reports - as the main reporting system
+* [I'm an inline-style link](https://qameta.io/allure-report/) Reports - as the main reporting system
 
 ###  Tests Execution:
 Each of the applications has a few tests for demonstration purpose. These tests can be developed in a very simple way, due to a lot of work with the infrastructure. [Sanity Tests]
