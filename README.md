@@ -4,7 +4,7 @@
 ## This project created to demonstrate my knowledge and skills in Automation Testing.
 
 <a href="https://www.youtube.com/watch?v=8d_0tl1fBVY
-" target="_blank"><img src="" 
+" target="_blank">
 alt="Short Video Demonstration" width="240" height="180" border="10" /></a>
 
 ### About
