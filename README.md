@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=8d_0tl1fBVY
 " target="_blank">Short Video Demonstration</a>     
 
-[logo]: https://cdn.crunchify.com/wp-content/uploads/2021/10/IntelliJ-IDEA-and-Latest-Java-setup-Java-17-or-newer-Project-setup.jpg "Logo Title Text 2"
+![alt text](https://cdn.crunchify.com/wp-content/uploads/2021/10/IntelliJ-IDEA-and-Latest-Java-setup-Java-17-or-newer-Project-setup.jpg "Logo Title Text 1")
 
 ### About
  
