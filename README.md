@@ -3,10 +3,6 @@
 
 ## This project created to demonstrate my knowledge and skills in Automation Testing.
  
-![alt text](https://miro.medium.com/max/624/1*YI4Vk_zfRg-sbjw8pgg9Eg.png "Logo Title Text 1") 
-
-
-
 
 <a href="https://www.youtube.com/watch?v=8d_0tl1fBVY
 " target="_blank">Short Video Demonstration</a>    
